@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stores/Store renders without crashing 1`] = `
+<li>
+  store
+</li>
+`;

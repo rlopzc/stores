@@ -1,0 +1,19 @@
+html, body, #root {
+  height: 95%;
+}
+
+.height-100 {
+  height: 100%;
+}
+
+.mb2 {
+  margin-bottom: 2rem;
+}
+
+.favorite-marker {
+  display: inline;
+}
+
+.scrollable {
+  overflow-y: scroll;
+}

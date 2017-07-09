@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stores/StoreList renders a list when there are favorites 1`] = `
+<ul>
+  <li />
+  <li />
+  <li />
+</ul>
+`;
+
+exports[`Stores/StoreList renders without crashing 1`] = `
+<p>
+  No favorite stores
+</p>
+`;

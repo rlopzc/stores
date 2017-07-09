@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FavoriteStore renders favorite stores 1`] = `
+<div
+  className="panel panel-default height-100 scrollable"
+>
+  <div
+    className="panel-heading"
+  >
+    <h3
+      className="panel-title"
+    >
+      My Favorite stores
+    </h3>
+  </div>
+  <div
+    className="panel-body"
+  >
+    <ul>
+      <li />
+      <li />
+      <li />
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`FavoriteStore renders without crashing 1`] = `
+<div
+  className="panel panel-default height-100 scrollable"
+>
+  <div
+    className="panel-heading"
+  >
+    <h3
+      className="panel-title"
+    >
+      My Favorite stores
+    </h3>
+  </div>
+  <div
+    className="panel-body"
+  >
+    <p>
+      No favorite stores
+    </p>
+  </div>
+</div>
+`;
